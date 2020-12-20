@@ -16,4 +16,4 @@ collection will never end.
 
 <br/>
 
-PS: I'm like stars, so please star the repo :rofl:
+PS: I like stars, so please star the repo :rofl:
