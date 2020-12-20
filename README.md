@@ -14,4 +14,6 @@ Nothing. If you're bored too, you're welcome to contribute to this repository.
 This project will be WIP forever. New programming languages - esoteric or not - are published every year; so this
 collection will never end.
 
+<br/>
+
 PS: I'm like stars, so please star the repo :rofl:
