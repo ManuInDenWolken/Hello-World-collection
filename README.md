@@ -1,6 +1,6 @@
 # The "Hello World!" collection
 
-### What's that fucking shit?
+### What's that f*cking shit?
 I was bored and so I collected some programming languages' "Hello World!"'s. 
 
 ### What should I do with this collection?
