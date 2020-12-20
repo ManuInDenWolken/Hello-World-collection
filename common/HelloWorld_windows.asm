@@ -1,7 +1,7 @@
 .MODEL Small
 .STACK 100h
 .CONST
-  HW      DB      "Hallo Welt!$"
+  HW      DB      "Hello World!$"
 .CODE
 
 start:
