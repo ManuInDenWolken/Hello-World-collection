@@ -18,7 +18,7 @@ collection will never end.
 
 ### Contribute
 If you want to contribute to this repository, fork it. The scheme for the commit messages is following:
-`Added common/complex xyz`
+`Added common/complex xyz`<br/>
 Example: `Added common rust`
 
 <br/>
