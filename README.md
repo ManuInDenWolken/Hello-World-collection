@@ -16,4 +16,11 @@ collection will never end.
 
 <br/>
 
+### Contribute
+If you want to contribute to this repository, fork it. The scheme for the commit messages is following:
+`Added common/complex xyz`
+Example: `Added common rust`
+
+<br/>
+
 PS: I like stars, so please star the repo :rofl:
