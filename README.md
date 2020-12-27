@@ -25,7 +25,7 @@ Every PR requested has to follow this rules. Otherwise I'll not accept it!
 
 <br/>
 
-<img src="assets/meme.jpg" alt="Just a meme ^"/>
+<img src="assets/meme.jpg" alt="Just a meme ^" width="40%" height="40%"/>
 
 <br/>
 
