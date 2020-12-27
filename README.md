@@ -25,7 +25,7 @@ Every PR requested has to follow this rules. Otherwise I'll not accept it!
 
 <br/>
 
-![alt text](https://github.com/ManuInDenWolken/Hello-World-collection/tree/master/assets/meme.jpg "Just a meme")
+<img src="assets/meme.jpg" alt="Just a meme ^"/>
 
 <br/>
 
