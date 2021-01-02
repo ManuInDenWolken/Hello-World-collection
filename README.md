@@ -16,4 +16,17 @@ collection will never end.
 
 <br/>
 
+### Contribute
+If you want to contribute to this repository, fork it. The scheme for the commit messages is following:
+`Added common/complex xyz` <br/>
+Example: `Added common rust`
+Please do commit the changes on master branch! <br/>
+Every PR requested has to follow this rules. Otherwise I'll not accept it!
+
+<br/>
+
+<img id="meme" src="assets/meme.jpg" alt="Just a meme ^" width="40%" height="40%"/>
+
+<br/>
+
 PS: I like stars, so please star the repo :rofl:
