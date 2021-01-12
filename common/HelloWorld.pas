@@ -1,6 +1,6 @@
 program Hello;
 begin
-  writeln ('Hello World')
+  writeln ('Hello World!')
 end.
 
 
